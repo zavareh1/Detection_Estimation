@@ -3,7 +3,7 @@
 This repository focuses on the implementation and analysis of an **adaptive detection algorithm** as presented in the seminal paper [An Adaptive Detection Algorithm](https://ieeexplore.ieee.org/document/4104190). The repository is a work in progress, and we are continuously adding more simulations and analyses.
 
 ## Key Topics
-
+ 
 ### 1. CFAR Detectors
 - **Problem Addressed**:
   - Detection of signals in the presence of unknown Gaussian noise using statistical hypothesis testing.
